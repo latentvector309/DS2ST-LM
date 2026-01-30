@@ -16,9 +16,4 @@ The main contributions of this work are summarized as follows:
 
 
 
-
-
-  
-
-
-![ds2stlm](https://github.com/user-attachments/assets/1dd5969f-4b2b-42d3-b515-e6d9e59ba33e)
+![slam_s2s](https://github.com/user-attachments/assets/cab0e803-cb62-4699-ba0e-a6bb7e40240d)
